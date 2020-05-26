@@ -159,7 +159,7 @@ export default function AddEmployee() {
             className={classes.submit}
             onClick={handleSubmit}
           >
-            Save
+            Save into DB
           </Button>
 
           <Grid container justify="center">
